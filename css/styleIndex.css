@@ -1,0 +1,58 @@
+* {
+	font-family: 'Abel', sans-serif;
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+.imgBack {
+	background: url(../img/principalBack.jpg) no-repeat center;
+	height: 620px;
+}
+
+.myName {
+	padding-top: 180px;
+	text-align: center;
+	font-size: 100px;
+	color: white;
+}
+
+.subName {
+	margin: auto;
+	text-align: center;
+	color: gainsboro;
+}
+
+.h1TitleContent {
+	text-align: center;
+}
+
+.hrLine {
+	width: 120px;
+	background-color: red; 
+	height: 1px;
+}
+
+.pText {
+	font-size: 20px;
+}
+
+footer {
+	height: 500px;
+	background: linear-gradient(to right, #232526, #414345);
+}
+
+.h1TitleFooter {
+	color: white;
+	text-align: center;
+	padding: 25px;
+}
+
+.btnSendMsg {
+	width: 150px;
+}
+
+.iconSend {
+	vertical-align: middle;
+	margin-left: 15px;
+}
