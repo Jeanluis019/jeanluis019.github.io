@@ -23,6 +23,10 @@
 	color: gainsboro;
 }
 
+body {
+	background-color: whitesmoke;
+}
+
 .h1TitleContent {
 	text-align: center;
 }
@@ -42,14 +46,13 @@
 }
 
 footer {
-	height: 550px;
-	background: linear-gradient(to right, #232526, #414345);
+	height: 250px;
+	background-color: white;
 }
 
 .h1TitleFooter {
-	color: white;
 	text-align: center;
-	padding: 25px;
+	padding-top: 25px;
 }
 
 .btnSendMsg {
