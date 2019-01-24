@@ -63,3 +63,20 @@ footer {
 	vertical-align: middle;
 	margin-left: 15px;
 }
+
+.divMyProjects .uk-card {
+	height: 800px;
+}
+
+.divMyProjects .card-footer {
+	border-top: 1px solid lightgrey;
+    padding: 20px;
+}
+
+.divMyProjects .card-footer a:hover {
+	color: blue;
+}
+
+.divMyProjects .uk-card-body {
+	height: 313px;
+}
