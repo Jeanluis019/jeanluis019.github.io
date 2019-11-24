@@ -7,6 +7,7 @@
 
 .imgBack {
 	background: url(../img/principalBack.jpg) no-repeat center;
+	background-size: cover;
 	height: 620px;
 }
 
